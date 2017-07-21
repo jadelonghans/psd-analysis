@@ -12,6 +12,6 @@ To explore the power spectral density of voice samples, extract peaks and visual
 Voice data used for this project was obtained from the following page:
 http://voice-statistics.github.io
 
-* Reference: 
+## Reference: 
   TEXT-INDEPENDENT SPEAKER IDENTIFICATION SYSTEM USING AVERAGE PITCH AND FORMANT ANALYSIS
   http://airccse.org/journal/ijit/papers/3314ijit03.pdf
